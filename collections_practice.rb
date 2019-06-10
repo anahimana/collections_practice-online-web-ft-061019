@@ -26,5 +26,4 @@ def kesha_maker(arr)
 end
 
 words = ["blake", "ashley", "scott"]
-
 puts 
