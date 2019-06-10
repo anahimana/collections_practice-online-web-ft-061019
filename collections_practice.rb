@@ -26,5 +26,3 @@ def kesha_maker(arr)
   arr
 end
 
-words = ["blake", "ashley", "scott"]
-puts kesha_maker(words)
