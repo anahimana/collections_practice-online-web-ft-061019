@@ -8,6 +8,7 @@ def sort_array_desc(arr)
 end
 
 def sort_array_char_count(arr)
+  result = []
   arr.each do |item|
   end
 end
