@@ -23,8 +23,8 @@ end
 def kesha_maker(arr)
   new = []
   arr.collect {|item| item[2] = "$"}
-  # arr.each do |item|
-  #   new << word[2] = "$"
-  # end
-  # new
+  arr.each do |item|
+    new << word[2] = "$"
+  end
+  new
 end
