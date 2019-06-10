@@ -9,4 +9,5 @@ end
 
 def sort_array_char_count(arr)
   arr.each do |item|
+  end
 end
