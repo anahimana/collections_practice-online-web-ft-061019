@@ -28,4 +28,5 @@ end
 
 def find_a(arr)
    arr.each do |word|
+   end
 end
