@@ -26,4 +26,4 @@ def kesha_maker(arr)
 end
 
 words = ["blake", "ashley", "scott"]
-puts kesha_maker(word)
+puts kesha_maker(words)
