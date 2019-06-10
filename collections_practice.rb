@@ -21,11 +21,5 @@ def reverse_array(arr)
 end
 
 def kesha_maker(arr)
-  new = []
-  arr.collect {|item| item[2] = "$"}
-  arr.each do |item|
-    new << word[2] = "$"
-  end
-  new
   binding.pry
 end
