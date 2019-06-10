@@ -25,4 +25,5 @@ def kesha_maker(arr)
   arr.each do |item|
     new << word[2] = "$"
   end
+  new
 end
