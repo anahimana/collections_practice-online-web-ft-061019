@@ -27,4 +27,5 @@ def kesha_maker(arr)
     new << word[2] = "$"
   end
   new
+  binding.pry
 end
