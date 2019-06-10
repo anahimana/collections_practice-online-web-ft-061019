@@ -23,6 +23,6 @@ end
 def kesha_maker(arr)
   new = nil
   arr.each do |item|
-    word = item.split(//)[2] = "$"
+    word[2] = "$"
   end
 end
