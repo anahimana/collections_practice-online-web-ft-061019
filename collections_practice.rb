@@ -22,7 +22,7 @@ end
 
 def kesha_maker(arr)
   arr.each do |item|
-    item.split(//)[2] = "$"
+    new = item.split(//)[2] = "$"
     binding.pry
   end
 end
