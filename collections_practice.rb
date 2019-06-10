@@ -31,4 +31,5 @@ def find_a(arr)
    arr.each do |word|
      result << word if word.start_with?('a')
    end
+   result
 end
