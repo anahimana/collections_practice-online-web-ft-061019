@@ -39,6 +39,7 @@ def sum_array(arr)
 end
 
 def add_s(arr)
+  result
   arr.each_with_index do |item, index|
     item << "s" unless index == 1
     result << item
