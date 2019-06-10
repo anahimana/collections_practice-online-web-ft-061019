@@ -20,6 +20,7 @@ def reverse_array(arr)
   arr.reverse
 end
 
+words = ["blake", "ashley", "scott"]
 
 def kesha_maker(arr)
   arr.collect {|word| word[2] = "$"}
