@@ -21,4 +21,5 @@ def reverse_array(arr)
 end
 
 def kesha_maker(arr)
+  arr[2]
 end
