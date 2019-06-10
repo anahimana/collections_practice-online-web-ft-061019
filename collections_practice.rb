@@ -29,6 +29,6 @@ end
 def find_a(arr)
   result = []
    arr.each do |word|
-     if word.startwith?
+     if word.start_with?('a')
    end
 end
