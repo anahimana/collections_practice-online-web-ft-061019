@@ -22,7 +22,7 @@ end
 
 def kesha_maker(arr)
   new = []
-  arr.collect {|item|}
+  arr.collect {|item| item[2]}
   arr.each do |item|
     new << word[2] = "$"
   end
