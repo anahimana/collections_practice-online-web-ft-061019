@@ -12,6 +12,7 @@ def sort_array_char_count(arr)
 end
 
 def swap_elements(arr)
+  binding.pry
   arr[1], arr[2] = arr[2], arr[1]
   arr
 end
