@@ -27,5 +27,5 @@ def kesha_maker(arr)
 end
 
 def find_a(arr)
-   arr.collect {|word| word[2] = "$"}
+   arr.each do |word|
 end
