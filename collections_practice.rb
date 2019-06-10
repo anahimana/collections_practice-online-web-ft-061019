@@ -22,5 +22,4 @@ end
 
 def kesha_maker(arr)
   arr.collect {|word|word[2] = "$"}
-  binding.pry
 end
