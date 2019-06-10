@@ -13,4 +13,5 @@ end
 
 def swap_elements(arr)
   arr.select do |item|
+  end
 end
