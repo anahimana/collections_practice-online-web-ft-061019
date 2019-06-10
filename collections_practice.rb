@@ -22,6 +22,7 @@ end
 
 def kesha_maker(arr)
   arr.each do |item|
-    item.split
+    binding.pry
+    item.split[]
   end
 end
