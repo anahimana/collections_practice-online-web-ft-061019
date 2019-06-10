@@ -44,4 +44,5 @@ def add_s(arr)
     item << "s" unless index == 1
     result << item
   end
+  result
 end
