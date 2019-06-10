@@ -40,4 +40,5 @@ end
 
 def add_s(arr)
   arr.each_with_index do |item, index|
+  end
 end
